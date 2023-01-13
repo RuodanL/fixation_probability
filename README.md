@@ -18,11 +18,5 @@ The folder [notebooks/data/](https://github.com/RuodanL/fixation_probability/tre
 
 The following Python codes are also included:
 
-- SIS_Model_1prime.py -- to simulate the SIS model on networks with partnership model 1'.
-- SIS_Model_2.py -- to simulate the SIS model on networks with partnership model 2.
-- SIS_Model_1dprime.py -- to simulate the SIS model on networks with partnership model 1''.
-- SIS_Model_3.py -- to simulate the SIS model on networks with partnership model 3.
-- SIR_Model_1prime.py -- to simulate the SIR model on networks with partnership model 1'.
-- SIR_Model_2.py -- to simulate the SIR model on networks with partnership model 2.
-- SIR_Model_1dprime.py -- to simulate the SIR model on networks with partnership model 1''.
-- SIR_Model_3.py -- to simulate the SIR model on networks with partnership model 3.
+- bd-on-empirical/randomized-hypergraph.py -- to simulate the birth-death process on empirical networks and randomized networks.
+- bd-on-one-mode-projection.py -- to simulate the birth-death process on one-mode projection of the empirical network.
