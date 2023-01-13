@@ -18,5 +18,5 @@ The folder [notebooks/data/](https://github.com/RuodanL/fixation_probability/tre
 
 The following Python codes are also included:
 
-- bd-on-empirical/randomized-hypergraph.py -- to simulate the birth-death process on empirical networks and randomized networks.
+- bd-on-hypergraph.py -- to simulate the birth-death process on empirical networks and randomized networks.
 - bd-on-one-mode-projection.py -- to simulate the birth-death process on one-mode projection of the empirical network.
