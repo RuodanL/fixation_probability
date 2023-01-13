@@ -1,6 +1,6 @@
 # Fixation probability on hypergraphs with high symmetry
 
-We provide here code to accompany the following paper:
+Here we provide the code that accompanies the following paper:
 
 R. Liu, N. Masuda.
 Fixation dynamics on hypergraphs.
