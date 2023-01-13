@@ -12,7 +12,7 @@ Preprint on arXiv: [I will update here when I get the arXiv identifier number](p
 figure_X.ipynb
 ```
 contains the code to produce fig X in the manuscript, where $X = 2, 4, 5$, and E. $6$.
-The folder [notebooks/data/](https://github.com/RuodanL/fixation_probability/tree/main/notebooks/data) contains the numerical results based on which Figures 2-5, and E.6 are produced.
+The folder [notebooks/data/](https://github.com/RuodanL/fixation_probability/tree/main/notebooks/data) contains the numerical results based on which Figures 2, 4, 5, and E.6 are produced.
 
 ## Python code for running evolutionary dynamics on empirical hypergraphs
 
