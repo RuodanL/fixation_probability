@@ -6,4 +6,4 @@ Here we provide the Python code for calculating the fixation probability on the 
 - `cycle_numerical_larger_N.py` to get the fixation probability on the cyclic 3-uniform hypergraph.
 - `star_numerical_larger_N.py` to get the fixation probability on the star 3-uniform hypergraph.
 
-You can specify the $N$ value in these .py files. To produce the results for our article, we set $N=20$ and $N=200$.
+You can specify the $N$ value in these .py files. To produce the results for our article, which we placed in this folder, we set $N=20$ and $N=200$.
