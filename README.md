@@ -6,6 +6,8 @@ R. Liu, N. Masuda.
 Fixation dynamics on hypergraphs.
 Preprint on arXiv: [arXiv:2301.05343](https://arxiv.org/abs/2301.05343)
 
+When you use our code for your publications, please cite this paper.
+
 ## Jupyter notebook to create figures
 
 ```
