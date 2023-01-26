@@ -4,7 +4,7 @@ Here we provide the code that accompanies the following paper:
 
 R. Liu, N. Masuda.
 Fixation dynamics on hypergraphs.
-Preprint on arXiv: [I will update here when I get the arXiv identifier number](pending URL)
+Preprint on arXiv: [arXiv:2301.05343](https://arxiv.org/abs/2301.05343)
 
 ## Jupyter notebook to create figures
 
