@@ -1,4 +1,4 @@
-# Fixation probability for the birth-death process on the weighted one-mode projection of the star 3-uniform hypergraph
+# Fixation probability on the weighted one-mode projection of the star 3-uniform hypergraph under model 1
 
 - `star_omp_with_weight.py` calculates the fixation probability on the one-mode projection of the star 3-uniform hypergraph with an arbitrary number of nodes, $N$, under model 1.
 
