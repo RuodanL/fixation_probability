@@ -1,6 +1,6 @@
 # Fixation probability on star 3-uniform hypergraphs under model 2
 
-Here we provide the Python code for calculating the fixation probability under model 2 on star 3-uniform hypergraphs with arbitrary number of nodes, $N$.
+Here we provide the Python code for calculating the fixation probability on star 3-uniform hypergraphs with arbitrary number of nodes, $N$, under model 2.
 
 - `m_rule_star_num.py` calculates the fixation probability on the star 3-uniform hypergraph.
 
