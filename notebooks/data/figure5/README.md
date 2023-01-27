@@ -1,9 +1,9 @@
-# Python code for running evolutionary dynamics
+# Running the birth-death process under model 1
 
 The following Python codes are included in this folder:
 
-- `bd-on-hypergraph.py` simulates the birth-death process under model 1 on an arbitrary connected hypergraph. It returns the fixation probability for a single mutant for each fitness value, $r$.
-- `bd-on-one-mode-projection.py` simulates the birth-death process under model 1 on the weighted one-mode projection of an arbitrary connected hypergraph. It returns the fixation probability for a single mutant for each fitness value, $r$.
+- `bd-on-hypergraph.py` simulates the birth-death process on an arbitrary connected hypergraph under model 1. It returns the fixation probability for a single mutant for each fitness value, $r$.
+- `bd-on-one-mode-projection.py` simulates the birth-death process on the weighted one-mode projection of an arbitrary connected hypergraph under model 1. It returns the fixation probability for a single mutant for each fitness value, $r$.
 
 Here we provide an artificial hypergraph data as an example:
 
