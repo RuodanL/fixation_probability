@@ -1,6 +1,6 @@
 # Fixation probability on 3-uniform hypergraphs under model 1
 
-Here we provide the Python code for calculating the fixation probability on the following 3-uniform hypergraphs with arbitrary number of nodes, $N$:
+Here we provide the Python code for calculating the fixation probability under model 1 on the following 3-uniform hypergraphs with arbitrary number of nodes, $N$:
 
 - `complete_numerical_larger_N.py` to get the fixation probability on the complete 3-uniform hypergraph.
 - `cycle_numerical_larger_N.py` to get the fixation probability on the cyclic 3-uniform hypergraph.
