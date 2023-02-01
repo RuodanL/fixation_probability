@@ -22,3 +22,7 @@ The following Python codes are also included:
 
 - `bd-on-hypergraph.py` to simulate the birth-death process on an arbitrary connected hypergraph under model 1 and get the fixation probability for a single mutant for each fitness value, $r$.
 - `bd-on-one-mode-projection.py` to simulate the birth-death process on the weighted one-mode projection of an arbitrary connected hypergraph and get the fixation probability for a single mutant for each fitness value, $r$.
+
+## Installation and Dependencies
+
+The `pentapy` package can be installed via pip[pentapy](https://pypi.org/project/pentapy/). On Windows you can install WinPython[winpython](https://winpython.github.io) to get Python and pip running.
