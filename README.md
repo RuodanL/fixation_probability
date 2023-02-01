@@ -31,3 +31,15 @@ The `pentapy` package can be installed via [pip](https://pypi.org/project/pentap
 pip install pentapy
 ```
 There are pre-built wheels for Linux, MacOS and Windows for most Python versions (2.7, 3.4-3.7).
+
+The `SciPy` package can be installed via pip from [PyPI](https://pypi.org/project/scipy/).
+
+```
+pip install scipy
+```
+SciPy is part of the [Anaconda](https://docs.continuum.io/anaconda/) distribution and can be installed with Anaconda or Miniconda:
+
+```
+conda install scipy
+```
+
