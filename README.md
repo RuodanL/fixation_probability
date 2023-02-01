@@ -30,3 +30,4 @@ The `pentapy` package can be installed via [pip](https://pypi.org/project/pentap
 ```
 pip install pentapy
 ```
+There are pre-built wheels for Linux, MacOS and Windows for most Python versions (2.7, 3.4-3.7).
