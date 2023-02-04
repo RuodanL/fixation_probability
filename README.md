@@ -25,7 +25,7 @@ The following Python codes are also included:
 
 ## Installation and Dependencies
 
-The `pentapy` package can be installed via [pip](https://pypi.org/project/pentapy/). On Windows you can install [WinPython](https://winpython.github.io) to get Python and pip running.
+The `pentapy` package can be installed via [pip](https://pypi.org/project/pentapy/). On Windows, you can install [WinPython](https://winpython.github.io) to get Python and pip. Then, run
 
 ```
 pip install pentapy
